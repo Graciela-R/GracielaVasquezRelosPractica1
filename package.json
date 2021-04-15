@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/app.js",
+  "scripts": {
+    "build": "tsc && node ./dist/problema1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
